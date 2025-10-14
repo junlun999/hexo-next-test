@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/2025/10/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87AI%E5%85%B3%E9%94%AE%E8%AF%8D%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    
+    <lastmod>2025-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/categories/index.html</loc>
+    
+    <lastmod>2025-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/tags/index.html</loc>
+    
+    <lastmod>2025-10-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/2025/10/11/hello-world/</loc>
+    
+    <lastmod>2025-10-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/tags/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/tags/%E4%BD%A0%E7%9A%84AI%E5%85%B3%E9%94%AE%E8%AF%8D/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://junlun999.github.io/hexo-next-test/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/AI%E5%BA%94%E7%94%A8/</loc>
+    <lastmod>2025-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
